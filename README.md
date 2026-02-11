@@ -1,6 +1,6 @@
 # 💪 Fitness App – UI/UX Case Study
 
-![Fitness App Preview](preview.png)
+![Fitness App Preview](screens/preview.png)
 
 ## 📌 Project Overview
 A modern and user-friendly Fitness Mobile Application designed to help users track daily activities such as steps, calories, heart rate, and progress statistics.
@@ -43,7 +43,7 @@ Many fitness apps overwhelm users with excessive data and cluttered layouts. Thi
 - Strong visual branding
 - Clear Login & Signup CTAs
 
-![Welcome Screen](Screens/welcome-screen.png)
+![Welcome Screen](screens/welcome.png)
 
 ---
 
@@ -53,7 +53,7 @@ Many fitness apps overwhelm users with excessive data and cluttered layouts. Thi
 - Weight tracking
 - Heart rate summary
 
-![Dashboard](Screens/dashboard.png)
+![Dashboard](screens/dashboard.png)
 
 ---
 
@@ -62,7 +62,7 @@ Many fitness apps overwhelm users with excessive data and cluttered layouts. Thi
 - Weekly activity visualization
 - Time, calories & distance summary
 
-![Heart Rate](Screens/heart-rate.png)
+![Heart Rate](screens/heart-rate.png)
 
 ---
 
@@ -71,7 +71,7 @@ Many fitness apps overwhelm users with excessive data and cluttered layouts. Thi
 - Goal tracking
 - Activity insights
 
-![Statistics](Screens/statistics.png)
+![Statistics](screens/statistics.png)
 
 ---
 
